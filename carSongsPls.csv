@@ -1,51 +1,51 @@
-﻿SERIAL,TITLE,ARTIST,VALUE,KEY
-1,Everlong - Acoustic Version,Foo Fighters,91,0
-2,The Times They Are A-Changin',Bob Dylan,89,0
-3,God's Gonna Cut You Down,Johnny Cash,88,0
-4,A Horse with No Name,America,69,0
-5,California Dreamin',The Mamas & The Papas,63,0
-6,No Rain,Blind Melon,62,0
-7,Happy Together,The Turtles,55,0
-8,Left Hand Free,alt-J,45,0
-9,Under Pressure,Queen,42,0
-10,For What It's Worth,Buffalo Springfield,41,0
-11,Another One Bites The Dust - Remastered 2011,Queen,95,1
-12,What I Got,Sublime,80,1
-13,Stuck In The Middle With You,Stealers Wheel,79,1
-14,Burning Down the House - 45 Version,Talking Heads,78,1
-15,1979,The Smashing Pumpkins,77,1
-16,Drive My Car - Remastered 2009,The Beatles,75,1
-17,Seven Nation Army,The White Stripes,74,1
-18,Howlin' for You,The Black Keys,71,1
-19,Left Hand Free,alt-J,70,1
-20,Blister in the Sun - 2002 Remastered Version,Violent Femmes,70,1
-21,Somebody Told Me,The Killers,97,2
-22,Smooth Criminal,Alien Ant Farm,96,2
-23,Going Down/ Love In An Elevator,Aerosmith,96,2
-24,My Own Worst Enemy,Lit,95,2
-25,What's My Age Again?,blink-182,95,2
-26,Interstate Love Song,Stone Temple Pilots,95,2
-27,Give It Away,Red Hot Chili Peppers,94,2
-28,Father Of Mine,Everclear,94,2
-29,Sweet Child O' Mine,Guns N' Roses,94,2
-30,The Impression That I Get,The Mighty Mighty Bosstones,94,2
-31,My Own Worst Enemy,Lit,-3,3
-32,Californication,Red Hot Chili Peppers,-3,3
-33,Somebody Told Me,The Killers,-4,3
-34,Smooth Criminal,Alien Ant Farm,-4,3
-35,Going Down/ Love In An Elevator,Aerosmith,-4,3
-36,Buddy Holly,Weezer,-4,3
-37,Chop Suey!,System Of A Down,-4,3
-38,Learn to Fly,Foo Fighters,-4,3
-39,When I Come Around,Green Day,-4,3
-40,Snow (Hey Oh),Red Hot Chili Peppers,-4,3
-41,Stuck In The Middle With You,Stealers Wheel,96,4
-42,1979,The Smashing Pumpkins,96,4
-43,Ain't No Rest for the Wicked,Cage The Elephant,92,4
-44,Song 2 - 2012 Remaster,Blur,92,4
-45,The Way,Fastball,90,4
-46,My Sharona,The Knack,90,4
-47,The Distance,Cake,89,4
-48,"Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,89,4
-49,Blister in the Sun - 2002 Remastered Version,Violent Femmes,89,4
-50,Smooth Criminal,Alien Ant Farm,88,4
+﻿SERIAL,TITLE,ARTIST,VALUE,KEY,AVG
+1,Everlong - Acoustic Version,Foo Fighters,91,0,21.79591837
+2,The Times They Are A-Changin',Bob Dylan,89,0,21.79591837
+3,God's Gonna Cut You Down,Johnny Cash,88,0,21.79591837
+4,A Horse with No Name,America,69,0,21.79591837
+5,California Dreamin',The Mamas & The Papas,63,0,21.79591837
+6,No Rain,Blind Melon,62,0,21.79591837
+7,Happy Together,The Turtles,55,0,21.79591837
+8,Left Hand Free,alt-J,45,0,21.79591837
+9,Under Pressure,Queen,42,0,21.79591837
+10,For What It's Worth,Buffalo Springfield,41,0,21.79591837
+11,Another One Bites The Dust - Remastered 2011,Queen,95,1,69.24489796
+12,What I Got,Sublime,80,1,69.24489796
+13,Stuck In The Middle With You,Stealers Wheel,79,1,69.24489796
+14,Burning Down the House - 45 Version,Talking Heads,78,1,69.24489796
+15,1979,The Smashing Pumpkins,77,1,69.24489796
+16,Drive My Car - Remastered 2009,The Beatles,75,1,69.24489796
+17,Seven Nation Army,The White Stripes,74,1,69.24489796
+18,Howlin' for You,The Black Keys,71,1,69.24489796
+19,Left Hand Free,alt-J,70,1,69.24489796
+20,Blister in the Sun - 2002 Remastered Version,Violent Femmes,70,1,69.24489796
+21,Somebody Told Me,The Killers,97,2,61.57142857
+22,Smooth Criminal,Alien Ant Farm,96,2,61.57142857
+23,Going Down/ Love In An Elevator,Aerosmith,96,2,61.57142857
+24,My Own Worst Enemy,Lit,95,2,61.57142857
+25,What's My Age Again?,blink-182,95,2,61.57142857
+26,Interstate Love Song,Stone Temple Pilots,95,2,61.57142857
+27,Give It Away,Red Hot Chili Peppers,94,2,61.57142857
+28,Father Of Mine,Everclear,94,2,61.57142857
+29,Sweet Child O' Mine,Guns N' Roses,94,2,61.57142857
+30,The Impression That I Get,The Mighty Mighty Bosstones,94,2,61.57142857
+31,My Own Worst Enemy,Lit,89.12509381,3,79.49505901
+32,Californication,Red Hot Chili Peppers,89.12509381,3,79.49505901
+33,Somebody Told Me,The Killers,85.76958986,3,79.49505901
+34,Smooth Criminal,Alien Ant Farm,85.76958986,3,79.49505901
+35,Going Down/ Love In An Elevator,Aerosmith,85.76958986,3,79.49505901
+36,Buddy Holly,Weezer,85.76958986,3,79.49505901
+37,Chop Suey!,System Of A Down,85.76958986,3,79.49505901
+38,Learn to Fly,Foo Fighters,85.76958986,3,79.49505901
+39,When I Come Around,Green Day,85.76958986,3,79.49505901
+40,Snow (Hey Oh),Red Hot Chili Peppers,85.76958986,3,79.49505901
+41,Stuck In The Middle With You,Stealers Wheel,96,4,51.48979592
+42,1979,The Smashing Pumpkins,96,4,51.48979592
+43,Ain't No Rest for the Wicked,Cage The Elephant,92,4,51.48979592
+44,Song 2 - 2012 Remaster,Blur,92,4,51.48979592
+45,The Way,Fastball,90,4,51.48979592
+46,My Sharona,The Knack,90,4,51.48979592
+47,The Distance,Cake,89,4,51.48979592
+48,"Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,89,4,51.48979592
+49,Blister in the Sun - 2002 Remastered Version,Violent Femmes,89,4,51.48979592
+50,Smooth Criminal,Alien Ant Farm,88,4,51.48979592
